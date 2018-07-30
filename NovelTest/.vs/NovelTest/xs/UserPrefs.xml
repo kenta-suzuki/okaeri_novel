@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{833FD738-57D7-0DC8-764A-6BC31C0D5F61}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Tag/CameraVignetteEffectTag.cs">
+    <Files>
+      <File FileName="Assets/NovelLoader.cs" Line="10" Column="50" />
+      <File FileName="Assets/TagCreater.cs" Line="47" Column="29" />
+      <File FileName="Assets/NovelController.cs" Line="28" Column="6" />
+      <File FileName="Assets/Tag/ITag.cs" Line="7" Column="7" />
+      <File FileName="Assets/Tag/BgLoadTag.cs" Line="28" Column="10" />
+      <File FileName="Assets/Tag/BgHideTag.cs" Line="33" Column="37" />
+      <File FileName="Assets/Tag/CharaHideTag.cs" Line="11" Column="15" />
+      <File FileName="Assets/Tag/LoadEffectTag.cs" Line="27" Column="6" />
+      <File FileName="Assets/Tag/CharaLoadTag.cs" Line="29" Column="10" />
+      <File FileName="Assets/NovelMenuController.cs" Line="20" Column="46" />
+      <File FileName="Assets/Tag/CameraColorEffectTag.cs" Line="20" Column="2" />
+      <File FileName="Assets/Tag/CameraGrainEffectTag.cs" Line="11" Column="34" />
+      <File FileName="Assets/Tag/CameraVignetteEffectTag.cs" Line="42" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.NovelTest PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
